@@ -1,0 +1,934 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89243d3ad8a223c4cb7a9dd4f90f4c26, type: 3}
+  m_Name: main
+  m_EditorClassIdentifier: 
+  AssetPath: Assets/Material/Redo Substances/Stone Brick Wall/Stone Brick Wall_03.sbsar
+  OutputPath: Assets/Material/Redo Substances/Stone Brick Wall/Stone Brick Wall_03_main
+  RawData: {fileID: -244192453324840774, guid: b6394b06042ff6c409fa6ec9d32dd42d, type: 3}
+  Graphs:
+  - Index: 0
+    Owner: {fileID: 11400000}
+    Input:
+    - rid: 1000
+    Output:
+    - Index: 0
+      VirtualOutputIndex: 7
+      GraphIndex: 0
+      Description:
+        Identifier: basecolor
+        Label: basecolor
+        Index: 0
+        Type: 8
+        Channel: baseColor
+      OutputTexture: {fileID: 2800000, guid: dd570fa53cd2e7f45a8ccae3880c2ef4, type: 3}
+      sRGB: 1
+      IsVirtual: 0
+      IsStandardOutput: 1
+      IsAlphaAssignable: 1
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 1
+      VirtualOutputIndex: 8
+      GraphIndex: 0
+      Description:
+        Identifier: normal
+        Label: normal
+        Index: 1
+        Type: 8
+        Channel: normal
+      OutputTexture: {fileID: 2800000, guid: 0563db36436977244aa7baed86518f69, type: 3}
+      sRGB: 0
+      IsVirtual: 0
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 2
+      VirtualOutputIndex: 9
+      GraphIndex: 0
+      Description:
+        Identifier: roughness
+        Label: roughness
+        Index: 2
+        Type: 8
+        Channel: roughness
+      OutputTexture: {fileID: 0}
+      sRGB: 0
+      IsVirtual: 0
+      IsStandardOutput: 0
+      IsAlphaAssignable: 1
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 3
+      VirtualOutputIndex: 10
+      GraphIndex: 0
+      Description:
+        Identifier: metallic
+        Label: metallic
+        Index: 3
+        Type: 8
+        Channel: metallic
+      OutputTexture: {fileID: 0}
+      sRGB: 0
+      IsVirtual: 0
+      IsStandardOutput: 0
+      IsAlphaAssignable: 1
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 4
+      VirtualOutputIndex: 11
+      GraphIndex: 0
+      Description:
+        Identifier: height
+        Label: height
+        Index: 4
+        Type: 8
+        Channel: height
+      OutputTexture: {fileID: 2800000, guid: 696f478e20e1a6542b234de84726f9b5, type: 3}
+      sRGB: 0
+      IsVirtual: 0
+      IsStandardOutput: 1
+      IsAlphaAssignable: 1
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 5
+      VirtualOutputIndex: 12
+      GraphIndex: 0
+      Description:
+        Identifier: AO
+        Label: AO
+        Index: 5
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 0}
+      sRGB: 0
+      IsVirtual: 0
+      IsStandardOutput: 0
+      IsAlphaAssignable: 1
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 0
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 13
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 13
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 13
+      VirtualOutputIndex: 13
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 20
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 13
+      VirtualOutputIndex: 13
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 13
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 20
+      VirtualOutputIndex: 20
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 0}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 13
+      VirtualOutputIndex: 13
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 13
+      VirtualOutputIndex: 13
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 20
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 0}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: 
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    - Index: 6
+      VirtualOutputIndex: 6
+      GraphIndex: 0
+      Description:
+        Identifier: mask
+        Label: mask
+        Index: 6
+        Type: 8
+        Channel: mask
+      OutputTexture: {fileID: 2800000, guid: abcc91c8bf4d3b24fa65ff780f4f1be6, type: 3}
+      sRGB: 0
+      IsVirtual: 1
+      IsStandardOutput: 1
+      IsAlphaAssignable: 0
+      AlphaChannel: 
+      InvertAssignedAlpha: 0
+      BGRATexture: 0
+      Flags: 6
+    RenderTextures: 0
+    OutputRemaped: 0
+    Thumbnail: 
+    HasThumbnail: 0
+    OutputMaterial: {fileID: 2100000, guid: 084fe9637b1cf684ea56cc94c7dff713, type: 2}
+    MaterialShader: HDRP/Lit
+    GenerateAllOutputs: 0
+    GenerateAllMipmaps: 0
+    DefaultPreset: " <sbspreset pkgurl=\"pkg://Stone_Brick_03\" label=\"\" >\n </sbspreset>\n"
+    CurrentStatePreset: " <sbspreset pkgurl=\"pkg://Stone_Brick_03\" label=\"\" >\n
+      </sbspreset>\n"
+    IsRuntimeOnly: 0
+  RefreshMaterial: 1
+  Name: main
+  IsRoot: 1
+  FlagedForDelete: 0
+  GUID: 3e43a0a4-73b0-4667-8340-896a769eb912
+  references:
+    version: 2
+    RefIds:
+    - rid: 1000
+      type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
+      data:
+        _Description:
+          Identifier: $randomseed
+          Label: $randomseed
+          GuiGroup: 
+          GuiDescription: 
+          GuiVisibleIf: 
+          Index: 0
+          Type: 4
+          WidgetType: 0
+        _Index: 0
+        _Data: 0
+        _isVisible: 1
+        _GraphID: 0
+        _NumericalDescription:
+          _DefaultValue: 0
+          _MinValue: 0
+          _MaxValue: 1
+          _SliderStep: 0.01
+          _SliderClamp: 0
+          _LabelFalse: 
+          _LabelTrue: 
+          _EnumValueCount: 0
+          _EnumValues: []
+        _HasChanged: 0

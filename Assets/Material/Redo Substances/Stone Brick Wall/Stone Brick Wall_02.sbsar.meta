@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c8e6e8456b693594ea5b63becb5737fc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: d894d7ca04b79c745a6288411165bdee, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Stone Brick Wall/Stone Brick Wall_02.sbsar

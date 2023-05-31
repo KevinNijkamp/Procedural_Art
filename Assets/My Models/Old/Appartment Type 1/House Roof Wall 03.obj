@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib House Roof Wall 03.mtl
+g default
+v 0.101000 0.000000 0.500000
+v 0.101000 0.000000 -0.500000
+v 0.101000 0.067187 0.500000
+v 0.101000 0.067187 -0.500000
+vt 0.196313 0.011588
+vt 0.803687 0.011588
+vt 0.803687 0.047439
+vt 0.196313 0.047439
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+vn 1.000000 0.000000 0.000000
+s off
+g polySurface6
+usemtl initialShadingGroup
+f 1/1/1 2/2/2 4/3/3 3/4/4

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 68083fb4344d15442b4b738e7edc972f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 623cf30ef01dd8b41b9ccb35198d8c12, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Roofs/Old Roofs 01.sbsar

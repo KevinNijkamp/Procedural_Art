@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa087b94fb9c688418a02c84b3479588
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 1620be53e72a00349a35dfd5b42dcf47, type: 2}
+  _assetPath: Assets/Material/Redo Substances/PlasterWall/Plaster_Wall_01.sbsar

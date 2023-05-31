@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2367ff35edb8f5d4895b8328d9516870
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 5994034467c717c479ead8e3610e6024, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Appartment Flat Window/Wall_with_window_for_flat_02.sbsar

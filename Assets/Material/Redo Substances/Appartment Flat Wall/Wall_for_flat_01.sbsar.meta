@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7e19ce3f551aac048b5f3a02fb4be35d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 9e2f5ddbf0682464e9218156a38d0ecd, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Appartment Flat Wall/Wall_for_flat_01.sbsar

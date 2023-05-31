@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f75743078ca784049a4c05c390421e3a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 977f0762eda857d4684ae5d7ba96c7bd, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Bricks_For_ArchBuilding/Bricks.sbsar

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ab308ec933937c042828c73e079d973e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: b1e4d340eb2f47a4d8989931e837bed5, type: 2}
+  _assetPath: Assets/Material/Redo Substances/Damaged Old Wall/Damaged Old Wall_02.sbsar
