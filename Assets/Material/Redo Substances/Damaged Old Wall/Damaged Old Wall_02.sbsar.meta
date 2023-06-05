@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: b1e4d340eb2f47a4d8989931e837bed5, type: 2}
-  _assetPath: Assets/Material/Redo Substances/Damaged Old Wall/Damaged Old Wall_02.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: ab308ec933937c042828c73e079d973e,
+    type: 3}

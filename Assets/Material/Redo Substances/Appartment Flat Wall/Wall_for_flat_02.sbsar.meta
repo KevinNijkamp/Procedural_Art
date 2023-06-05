@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: e166a1963865bed42bd84b8425639680, type: 2}
-  _assetPath: Assets/Material/Redo Substances/Appartment Flat Wall/Wall_for_flat_02.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: f778c9dcfa3904f4ab5907ea952b92ea,
+    type: 3}

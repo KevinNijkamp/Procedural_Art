@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: 5224c6874e2a1f347810839fbb6c83c8, type: 2}
-  _assetPath: Assets/Material/Old/Roof001 1.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: fc97c4c486d92de4c850b44fe34a3f9c,
+    type: 3}

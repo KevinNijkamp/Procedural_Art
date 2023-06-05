@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: cfa0c18e543f1ed4d92ce28b2ee702f8, type: 2}
-  _assetPath: Assets/Material/Redo Substances/MetalPlates/MetalPlates.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: 6073d5ce31a550745ac5c49783cf75ce,
+    type: 3}

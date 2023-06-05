@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: c79a7049f09f0c54a90ac85e27cfc07c, type: 2}
-  _assetPath: Assets/Material/Redo Substances/Street/Street.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: 881e0b3bf9d40d743825d55413d7c2e0,
+    type: 3}

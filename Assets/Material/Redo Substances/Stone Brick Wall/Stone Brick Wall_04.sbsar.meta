@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: 3b85ec292292900408183ebab2172826, type: 2}
-  _assetPath: Assets/Material/Redo Substances/Stone Brick Wall/Stone Brick Wall_04.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: 6522b13be57274942b15d772f9d25fa7,
+    type: 3}

@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: 858ad40dd78a8154e9004534f4d335d8, type: 2}
-  _assetPath: Assets/Material/Redo Substances/PlasterWall_Window/PlasterWall_Window_01.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: 3e05d25114e82694c8adcca7baa9c9cd,
+    type: 3}

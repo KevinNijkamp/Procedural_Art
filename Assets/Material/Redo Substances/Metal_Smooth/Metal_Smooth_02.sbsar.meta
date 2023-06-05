@@ -8,6 +8,5 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
-  _instancesCopy:
-  - {fileID: 11400000, guid: 11c95bd00398726488ebe2f9ad455d7f, type: 2}
-  _assetPath: Assets/Material/Redo Substances/Metal_Smooth/Metal_Smooth_02.sbsar
+  _fileAsset: {fileID: 6013892654665635331, guid: a708522d0e5f08d4a9dbcd040564a6bb,
+    type: 3}
