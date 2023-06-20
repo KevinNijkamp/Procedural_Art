@@ -286,7 +286,7 @@ PrefabInstance:
         type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 7176bd9f79cd61949b0398b20a478ce6, type: 2}
+      objectReference: {fileID: 2100000, guid: 0946009d0931cdf408d2c34113c1acc9, type: 2}
     - target: {fileID: 919132149155446097, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
       propertyPath: m_Name
@@ -710,7 +710,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.19511683
+      value: 0.13804658
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
@@ -720,7 +720,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.98078007
+      value: 0.99042577
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
@@ -735,7 +735,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -202.503
+      value: -195.87
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
@@ -746,7 +746,7 @@ PrefabInstance:
         type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 7176bd9f79cd61949b0398b20a478ce6, type: 2}
+      objectReference: {fileID: 2100000, guid: 0946009d0931cdf408d2c34113c1acc9, type: 2}
     - target: {fileID: 919132149155446097, guid: 0947144d33704cf4994daa60e80dba84,
         type: 3}
       propertyPath: m_Name
@@ -1107,7 +1107,7 @@ PrefabInstance:
         type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 92420e1eb12105744987614a5208b8ff, type: 2}
+      objectReference: {fileID: 2100000, guid: 35c219f09ba95e34eacb4763eba40d8e, type: 2}
     - target: {fileID: -7511558181221131132, guid: 29e5467c273381b4ba2f9607ae44df1a,
         type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
