@@ -147,8 +147,9 @@ MonoBehaviour:
   HasThumbnail: 0
   CurrentStatePreset: " <sbspreset pkgurl=\"pkg://MyRubble\" label=\"\" >\n  <presetinput
     identifier=\"$outputsize\" uid=\"148406451\" type=\"8\" value=\"10,10\" />\n 
-    <presetinput identifier=\"opacitymult\" uid=\"1780736222\" type=\"0\" value=\"0.549\"
-    />\n  <presetinput identifier=\"Size\" uid=\"1780559824\" type=\"0\" value=\"0.924\"
+    <presetinput identifier=\"$randomseed\" uid=\"1605015265\" type=\"4\" value=\"6131\"
+    />\n  <presetinput identifier=\"opacitymult\" uid=\"1780736222\" type=\"0\" value=\"0.482\"
+    />\n  <presetinput identifier=\"Size\" uid=\"1780559824\" type=\"0\" value=\"0.715\"
     />\n  <presetinput identifier=\"x_amount\" uid=\"1780591342\" type=\"4\" value=\"21\"
     />\n  <presetinput identifier=\"y_amount\" uid=\"1780589696\" type=\"4\" value=\"12\"
     />\n </sbspreset>\n"
@@ -196,7 +197,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 0
-        Data: 0
+        Data: 6131
         NumericalDescription:
           DefaultValue: 0
           MinValue: 0
@@ -219,7 +220,7 @@ MonoBehaviour:
             blend
           Type: 0
           WidgetType: 1
-        Data: 0.549
+        Data: 0.482
         NumericalDescription:
           DefaultValue: 1
           MinValue: 0
@@ -260,7 +261,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 0
           WidgetType: 1
-        Data: 0.924
+        Data: 0.715
         NumericalDescription:
           DefaultValue: 0.7
           MinValue: 0
