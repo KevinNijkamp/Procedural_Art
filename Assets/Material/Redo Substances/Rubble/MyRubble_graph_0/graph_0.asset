@@ -68,7 +68,7 @@ MonoBehaviour:
       Index: 2
       Type: 8
       Channel: roughness
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: 20d5677ada12374439a6bcca24283b41, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -84,7 +84,7 @@ MonoBehaviour:
       Index: 3
       Type: 8
       Channel: metallic
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: 79712349ec4b84d41b893b173c7122c0, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -116,7 +116,7 @@ MonoBehaviour:
       Index: 5
       Type: 8
       Channel: ambientOcclusion
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: b7713449e2aa4c64db566e9e97b5c9a2, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -149,13 +149,12 @@ MonoBehaviour:
     identifier=\"$outputsize\" uid=\"148406451\" type=\"8\" value=\"10,10\" />\n 
     <presetinput identifier=\"$randomseed\" uid=\"1605015265\" type=\"4\" value=\"6131\"
     />\n  <presetinput identifier=\"opacitymult\" uid=\"1780736222\" type=\"0\" value=\"0.482\"
-    />\n  <presetinput identifier=\"outputcolor\" uid=\"1780728385\" type=\"3\" value=\"0.5,0.5,0.5,1\"
-    />\n  <presetinput identifier=\"Size\" uid=\"1780559824\" type=\"0\" value=\"0.715\"
-    />\n  <presetinput identifier=\"x_amount\" uid=\"1780591342\" type=\"4\" value=\"64\"
-    />\n  <presetinput identifier=\"y_amount\" uid=\"1780589696\" type=\"4\" value=\"12\"
+    />\n  <presetinput identifier=\"outputcolor\" uid=\"1780728385\" type=\"3\" value=\"0.632075,0.528717,0.528717,1\"
+    />\n  <presetinput identifier=\"Size\" uid=\"1780559824\" type=\"0\" value=\"0.618\"
+    />\n  <presetinput identifier=\"y_amount\" uid=\"1780589696\" type=\"4\" value=\"28\"
     />\n </sbspreset>\n"
   IsRuntimeOnly: 0
-  GenerateAllOutputs: 0
+  GenerateAllOutputs: 1
   GenerateAllMipmaps: 1
   OutputMaterial: {fileID: 2100000, guid: 134e3bd0691c249429b1b7e52878e607, type: 2}
   DefaultPreset: " <sbspreset pkgurl=\"pkg://MyRubble\" label=\"\" >\n  <presetinput
@@ -242,7 +241,7 @@ MonoBehaviour:
             output image
           Type: 3
           WidgetType: 3
-        Data: {x: 0.5, y: 0.5, z: 0.5, w: 1}
+        Data: {x: 0.6320754, y: 0.52871716, z: 0.52871716, w: 1}
         NumericalDescription:
           DefaultValue: {x: 0.564767, y: 0.564767, z: 0.564767, w: 1}
           MinValue: {x: 0, y: 0, z: 0, w: 0}
@@ -262,7 +261,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 0
           WidgetType: 1
-        Data: 0.715
+        Data: 0.618
         NumericalDescription:
           DefaultValue: 0.7
           MinValue: 0
@@ -282,7 +281,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 64
+        Data: 26
         NumericalDescription:
           DefaultValue: 26
           MinValue: 1
@@ -304,7 +303,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 12
+        Data: 28
         NumericalDescription:
           DefaultValue: 20
           MinValue: 1

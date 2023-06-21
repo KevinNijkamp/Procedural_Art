@@ -144,7 +144,11 @@ MonoBehaviour:
   EnablePhysicalSize: 0
   Thumbnail: 
   HasThumbnail: 0
-  CurrentStatePreset: 
+  CurrentStatePreset: " <sbspreset pkgurl=\"pkg://Bricks_03\" label=\"\" >\n  <presetinput
+    identifier=\"x_amount\" uid=\"1923777898\" type=\"4\" value=\"24\" />\n  <presetinput
+    identifier=\"y_amount\" uid=\"1923780462\" type=\"4\" value=\"18\" />\n  <presetinput
+    identifier=\"outputcolor\" uid=\"1923764507\" type=\"3\" value=\"0.915094,0.471935,0.471935,1\"
+    />\n </sbspreset>\n"
   IsRuntimeOnly: 0
   GenerateAllOutputs: 0
   GenerateAllMipmaps: 1
@@ -190,7 +194,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 4
+        Data: 24
         NumericalDescription:
           DefaultValue: 4
           MinValue: 1
@@ -212,7 +216,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 7
+        Data: 18
         NumericalDescription:
           DefaultValue: 7
           MinValue: 1
@@ -257,7 +261,7 @@ MonoBehaviour:
             output image
           Type: 3
           WidgetType: 3
-        Data: {x: 0.0276243, y: 0.0276243, z: 0.0276243, w: 1}
+        Data: {x: 0.9150943, y: 0.47193536, z: 0.47193536, w: 1}
         NumericalDescription:
           DefaultValue: {x: 0.0276243, y: 0.0276243, z: 0.0276243, w: 1}
           MinValue: {x: 0, y: 0, z: 0, w: 0}

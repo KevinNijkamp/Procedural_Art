@@ -68,7 +68,7 @@ MonoBehaviour:
       Index: 2
       Type: 8
       Channel: roughness
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: 1edf882b0de0eab478196b528c480de6, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -84,7 +84,7 @@ MonoBehaviour:
       Index: 3
       Type: 8
       Channel: metallic
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: c0bccc0a93a93274a9a986cd4b6a3f3d, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -116,7 +116,7 @@ MonoBehaviour:
       Index: 5
       Type: 8
       Channel: unkown
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: c20103eec36123243bd77aa4aee37a5c, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -145,9 +145,13 @@ MonoBehaviour:
   EnablePhysicalSize: 0
   Thumbnail: 
   HasThumbnail: 0
-  CurrentStatePreset: 
+  CurrentStatePreset: " <sbspreset pkgurl=\"pkg://Street_02\" label=\"\" >\n  <presetinput
+    identifier=\"outputcolor\" uid=\"3911087497\" type=\"3\" value=\"1,1,1,1\" />\n 
+    <presetinput identifier=\"x_amount\" uid=\"3911114976\" type=\"4\" value=\"16\"
+    />\n  <presetinput identifier=\"y_amount\" uid=\"3911116518\" type=\"4\" value=\"33\"
+    />\n </sbspreset>\n"
   IsRuntimeOnly: 0
-  GenerateAllOutputs: 0
+  GenerateAllOutputs: 1
   GenerateAllMipmaps: 1
   OutputMaterial: {fileID: 2100000, guid: 0e374549bbe6afa44b82d9f5912c82b5, type: 2}
   DefaultPreset: " <sbspreset pkgurl=\"pkg://Street_02\" label=\"\" >\n </sbspreset>\n"
@@ -192,7 +196,7 @@ MonoBehaviour:
             output image
           Type: 3
           WidgetType: 3
-        Data: {x: 0.265193, y: 0.265193, z: 0.265193, w: 1}
+        Data: {x: 1, y: 1, z: 1, w: 1}
         NumericalDescription:
           DefaultValue: {x: 0.265193, y: 0.265193, z: 0.265193, w: 1}
           MinValue: {x: 0, y: 0, z: 0, w: 0}
@@ -212,7 +216,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 11
+        Data: 16
         NumericalDescription:
           DefaultValue: 11
           MinValue: 1
@@ -234,7 +238,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 29
+        Data: 33
         NumericalDescription:
           DefaultValue: 29
           MinValue: 1
