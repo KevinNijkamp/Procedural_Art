@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eed5864476f84ce4b85454db09ca4eaa, type: 3}
   m_Name: graph_0
   m_EditorClassIdentifier: 
-  AssetPath: Assets/Material/Redo Substances/Rubble/MyRubble.sbsar
+  AssetPath: Assets/MyRubble.sbsar
   RawData: {fileID: -244192453324840774, guid: fbca8c5103badea4c894e4a118ccdb07, type: 3}
   Name: graph_0
   IsRoot: 1
@@ -149,8 +149,9 @@ MonoBehaviour:
     identifier=\"$outputsize\" uid=\"148406451\" type=\"8\" value=\"10,10\" />\n 
     <presetinput identifier=\"$randomseed\" uid=\"1605015265\" type=\"4\" value=\"6131\"
     />\n  <presetinput identifier=\"opacitymult\" uid=\"1780736222\" type=\"0\" value=\"0.482\"
+    />\n  <presetinput identifier=\"outputcolor\" uid=\"1780728385\" type=\"3\" value=\"0.5,0.5,0.5,1\"
     />\n  <presetinput identifier=\"Size\" uid=\"1780559824\" type=\"0\" value=\"0.715\"
-    />\n  <presetinput identifier=\"x_amount\" uid=\"1780591342\" type=\"4\" value=\"21\"
+    />\n  <presetinput identifier=\"x_amount\" uid=\"1780591342\" type=\"4\" value=\"64\"
     />\n  <presetinput identifier=\"y_amount\" uid=\"1780589696\" type=\"4\" value=\"12\"
     />\n </sbspreset>\n"
   IsRuntimeOnly: 0
@@ -241,7 +242,7 @@ MonoBehaviour:
             output image
           Type: 3
           WidgetType: 3
-        Data: {x: 0.564767, y: 0.564767, z: 0.564767, w: 1}
+        Data: {x: 0.5, y: 0.5, z: 0.5, w: 1}
         NumericalDescription:
           DefaultValue: {x: 0.564767, y: 0.564767, z: 0.564767, w: 1}
           MinValue: {x: 0, y: 0, z: 0, w: 0}
@@ -281,7 +282,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 1
-        Data: 21
+        Data: 64
         NumericalDescription:
           DefaultValue: 26
           MinValue: 1
