@@ -146,8 +146,8 @@ MonoBehaviour:
   OutputMaterial: {fileID: 2100000, guid: 560d5e27d7a4eea4a801adfed16c38f1, type: 2}
   DefaultPreset: " <sbspreset pkgurl=\"pkg://Stone_Brick_01\" label=\"\" >\n </sbspreset>\n"
   MaterialShader: HDRP/Lit
-  RenderTextures: 1
-  OutputRemaped: 1
+  RenderTextures: 0
+  OutputRemaped: 0
   Presets: []
   references:
     version: 2
