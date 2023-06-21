@@ -120,7 +120,7 @@ MonoBehaviour:
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
-    AlphaChannel: 
+    AlphaChannel: AO
     InvertAssignedAlpha: 0
     Flags: 0
     MaterialTextureTarget: 
