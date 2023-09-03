@@ -63,7 +63,7 @@ MonoBehaviour:
       Index: 2
       Type: 8
       Channel: roughness
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: 0f4192e09470ee2429d574ebe141320a, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -79,7 +79,7 @@ MonoBehaviour:
       Index: 3
       Type: 8
       Channel: metallic
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: bf4c17aa60f94c94fa9b16ab4ce56cf3, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -111,7 +111,7 @@ MonoBehaviour:
       Index: 5
       Type: 8
       Channel: ambientOcclusion
-    OutputTexture: {fileID: 0}
+    OutputTexture: {fileID: 2800000, guid: 65d5cfdac8e91ef4facab40e942233e0, type: 3}
     sRGB: 0
     IsVirtual: 0
     IsAlphaAssignable: 1
@@ -142,7 +142,7 @@ MonoBehaviour:
   HasThumbnail: 0
   CurrentStatePreset: 
   IsRuntimeOnly: 0
-  GenerateAllOutputs: 0
+  GenerateAllOutputs: 1
   GenerateAllMipmaps: 1
   OutputMaterial: {fileID: 2100000, guid: 13c3b559a5e20084b9044604762efe4c, type: 2}
   DefaultPreset: " <sbspreset pkgurl=\"pkg://Wall_with_window_simple\" label=\"\"
